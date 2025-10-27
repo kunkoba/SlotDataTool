@@ -1,5 +1,10 @@
+__Del
 _Bin
-_Del
 Data
 Doc
 Log
+_Zip
+
+*.laccdb
+*.accdb
+
